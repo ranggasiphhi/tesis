@@ -1,2 +1,2 @@
-# tesis-be
-A cloning project back-end from https://tesis.com using Golang as a programming language.  Different from the original one, this will be used some rich features that I will write it below.
+# Tesis
+A cloning project from https://tesis.com and it will use some rich features.  Note : all features will be breakdown on different README
